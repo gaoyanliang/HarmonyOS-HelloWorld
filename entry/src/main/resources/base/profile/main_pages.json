@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/ToDoListPage",
+    "pages/Second",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/TargetPage"
+  ]
+}
